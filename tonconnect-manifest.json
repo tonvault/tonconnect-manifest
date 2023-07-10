@@ -1,7 +1,5 @@
 {
   "url": "http://localhost:3001",
   "name": "Ton Vault",
-  "iconUrl": "https://raw.githubusercontent.com/Shandin17/ton-vault-manifest/main/apple-icon.svg",
-  "termsOfUseUrl": "https://raw.githubusercontent.com/Shandin17/ton-vault-manifest/main/terms-of-use.txt",
-  "privacyPolicyUrl": "https://raw.githubusercontent.com/Shandin17/ton-vault-manifest/main/privacy-policy.txt"
+  "iconUrl": "https://raw.githubusercontent.com/tonvault/ton-vault-manifest/main/apple-icon.svg"
 }
